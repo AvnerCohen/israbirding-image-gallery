@@ -1,0 +1,14 @@
+#Category Page , Structure: Category_name||Category_thumbnail
+Divers to Frigatebirds||/gallery/gallery_images/tn_brown_booby_arie_2.jpg||DIVER
+Herons to Flamingos||/gallery/gallery_images/tn_purple_heron_ofer.jpg||HERON
+Wildfowl||/gallery/gallery_images/tn_wigeon_eyal.jpg||WILDFOWL
+Raptors||/gallery/gallery_images/tn_black_vulture_yoram2.jpg||RAPTOR
+Partridge to Bustards||/gallery/gallery_images/tn_hubara_bustard_yoram.jpg||PARTRIDGE
+Waders||/gallery/gallery_images/tn_caspian_plover_tomer.jpg||WADER
+Skuas to Terns||/gallery/gallery_images/tn_common_tern_rony.jpg||SKUA
+Sandgrouses to Cuckoos||/gallery/gallery_images/tn_black_bellied_sandgrouse_roni.jpg||SANDGROUSE
+Owls to Swifts||/gallery/gallery_images/tn_eagle_owl_yoram_2.jpg||OWL
+Kingfishers to Woodpeckers||/gallery/gallery_images/tn_pied_kingfisher_lior.jpg||KINGFISHER
+Larks to Thrushes||/gallery/gallery_images/tn_st_lark_rony.jpg||LARK
+Warblers to Sunbirds||/gallery/gallery_images/tn_sedge_warbler_lior.jpg||WARBLER
+Shrikes to Buntings||/gallery/gallery_images/tn_trumpeter_finch_lior.jpg||SHRIKE
